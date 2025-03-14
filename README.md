@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daffa Alexander</h1>
 <h3 align="center">A passionate Fullstack Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [A medical device company website](galunggung.vercel.app)
+- 🔭 I’m currently working on [A medical device company website](https://galunggung.vercel.app)
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [daffa-alexander.vercel.app](daffa-alexander.vercel.app)
+- 👨‍💻 All of my projects are available at [daffa-alexander.vercel.app](https://daffa-alexander.vercel.app)
 
 - 💬 Ask me about **react, next, golang, nodejs, typescript, postgresSQL, mongodb**
 
 - 📫 How to reach me **daffaalexander.work@gmail.com/daffaalex22@gmail.com**
 
-- 📄 Know about my experiences [daffa-alexander.vercel.app](daffa-alexander.vercel.app)
+- 📄 Know about my experiences [daffa-alexander.vercel.app](https://daffa-alexander.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
