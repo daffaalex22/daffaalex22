@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daffa Alexander</h1>
 <h3 align="center">A passionate Fullstack Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [A home staging app that leverages AI](https://virtaai.vercel.app/) and [A medical device company website](https://galunggung.vercel.app)
-
 - 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [daffa-alexander.vercel.app](https://daffa-alexander.vercel.app)
